@@ -1,38 +1,42 @@
 home page:
 
 when you press view less the itmes will be less-
-<img src="https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce" alt="Girl in a jacket" width="200" height="300">
+<img src="https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce" alt="Girl in a jacket" width="300" height="500">
 
 
 when you press view all the itmes will be all-
 
-<img src="https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b" alt="Girl in a jacket" width="200" height="300">
+<img src="https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b" alt="Girl in a jacket" width="300" height="500">
 
 
 
  Last Home Page:   heare you can see Brands  in the End Screen
  
- <img src="https://github.com/Saod5557/Project-5/assets/124809082/71365442-3232-4994-8b07-6cf95d64642a" alt="Girl in a jacket" width="200" height="300">
+ <img src="https://github.com/Saod5557/Project-5/assets/124809082/71365442-3232-4994-8b07-6cf95d64642a" alt="Girl in a jacket" width="300" height="500">
 
  Cataloge Page:
  here you cac see All Cataloge flowes data-
 
- <img src="https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)" alt="Girl in a jacket" width="200" height="300">
+ <img src="https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)" alt="Girl in a jacket" width="300" height="500">
 
 
 Cart Page:
 here you can see cart page
- <img src="(https://github.com/Saod5557/Project-5/assets/124809082/6561345e-24a9-4ae7-9faa-148f171b3ea5" alt="Girl in a jacket" width="200" height="300">
+ <img src="(https://github.com/Saod5557/Project-5/assets/124809082/6561345e-24a9-4ae7-9faa-148f171b3ea5" alt="Girl in a jacket" width="300" height="500">
 
 
 
 Profile Page:
 here you can see cart page-
-![localhost_64683_(iPhone 12 Pro) (6)](https://github.com/Saod5557/Project-5/assets/124809082/f98516e6-e1e9-4532-b32c-b22b525df105)
+
+
+<img src="https://github.com/Saod5557/Project-5/assets/124809082/f98516e6-e1e9-4532-b32c-b22b525df105" alt="Girl in a jacket" width="300" height="500">
 
 Detils Page:
 here you can see Detils evry flower-
-![localhost_56583_(iPhone 12 Pro)](https://github.com/Saod5557/Project-5/assets/124809082/2e211600-c61f-40aa-b0db-6e8d6e7f9352)
+<img src="https://github.com/Saod5557/Project-5/assets/124809082/f98516e6-e1e9-4532-b32c-b22b525df105" alt="Girl in a jacket" width="300" height="500">
+
+
 
 
 
