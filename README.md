@@ -1,10 +1,12 @@
 home page:
 
 when you press view less the itmes will be less-
-![localhost_64683_(iPhone 12 Pro)](https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)
+![localhost_64683_(iPhone 12 Pro) (1)](https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce)
 
 when you press view all the itmes will be all-
-![localhost_64683_(iPhone 12 Pro) (1)](https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce)
+![localhost_64683_(iPhone 12 Pro)](https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)
+
+
 
 
  Last Home Page:   heare you can see Brands  in the End Screen
