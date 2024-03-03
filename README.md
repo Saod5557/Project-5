@@ -1,24 +1,29 @@
 home page:
 
 when you press view less the itmes will be less-
-<img src="https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce" alt="Girl in a jacket" width="200" height="300">
 
 
 when you press view all the itmes will be all-
-![localhost_64683_(iPhone 12 Pro)](https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)
 
+<img src="https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b" alt="Girl in a jacket" width="200" height="300">
 
 
 
  Last Home Page:   heare you can see Brands  in the End Screen
- ![localhost_64683_(iPhone 12 Pro) (3)](https://github.com/Saod5557/Project-5/assets/124809082/71365442-3232-4994-8b07-6cf95d64642a)
+ 
+ <img src="https://github.com/Saod5557/Project-5/assets/124809082/71365442-3232-4994-8b07-6cf95d64642a" alt="Girl in a jacket" width="200" height="300">
+
  Cataloge Page:
  here you cac see All Cataloge flowes data-
-![localhost_64683_(iPhone 12 Pro) (4)](https://github.com/Saod5557/Project-5/assets/124809082/0a7b2d9e-da93-4509-b75f-f1be1d73585f)
+
+ <img src="https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)" alt="Girl in a jacket" width="200" height="300">
+
 
 Cart Page:
 here you can see cart page
-![localhost_64683_(iPhone 12 Pro) (5)](https://github.com/Saod5557/Project-5/assets/124809082/6561345e-24a9-4ae7-9faa-148f171b3ea5)
+ <img src="(https://github.com/Saod5557/Project-5/assets/124809082/6561345e-24a9-4ae7-9faa-148f171b3ea5" alt="Girl in a jacket" width="200" height="300">
+
 
 
 Profile Page:
