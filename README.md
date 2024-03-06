@@ -1,32 +1,12 @@
-home page:
 
-when you press view less the itmes will be less-
-![localhost_64683_(iPhone 12 Pro) (1)](https://github.com/Saod5557/Project-5/assets/124809082/588b468f-2b00-41ff-a2a0-dc86f4f295ce)
-
-when you press view all the itmes will be all-
-![localhost_64683_(iPhone 12 Pro)](https://github.com/Saod5557/Project-5/assets/124809082/6e7ea39e-39c0-420a-826c-bbf7864f112b)
+![home](https://github.com/Saod5557/Project-5/assets/124809082/de0a86af-c63f-42cf-be05-7705073137a0)
 
 
 
-
- Last Home Page:   heare you can see Brands  in the End Screen
- ![localhost_64683_(iPhone 12 Pro) (3)](https://github.com/Saod5557/Project-5/assets/124809082/71365442-3232-4994-8b07-6cf95d64642a)
- Cataloge Page:
- here you cac see All Cataloge flowes data-
-![localhost_64683_(iPhone 12 Pro) (4)](https://github.com/Saod5557/Project-5/assets/124809082/0a7b2d9e-da93-4509-b75f-f1be1d73585f)
-
-Cart Page:
-here you can see cart page
-![localhost_64683_(iPhone 12 Pro) (5)](https://github.com/Saod5557/Project-5/assets/124809082/6561345e-24a9-4ae7-9faa-148f171b3ea5)
+![display](https://github.com/Saod5557/Project-5/assets/124809082/85bc8ce3-a880-4ff1-aa1d-287c1aeb0e44)
 
 
-Profile Page:
-here you can see cart page-
-![localhost_64683_(iPhone 12 Pro) (6)](https://github.com/Saod5557/Project-5/assets/124809082/f98516e6-e1e9-4532-b32c-b22b525df105)
-
-Detils Page:
-here you can see Detils evry flower-
-![localhost_56583_(iPhone 12 Pro)](https://github.com/Saod5557/Project-5/assets/124809082/2e211600-c61f-40aa-b0db-6e8d6e7f9352)
+![pages](https://github.com/Saod5557/Project-5/assets/124809082/537d756b-55ac-4fa5-9946-da3e2c0f9632)
 
 
 
